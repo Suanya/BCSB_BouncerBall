@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BouncerBall/ballBouncer608.unity
+    guid: 3af65e25aba81413da9eb7c7a25b10e3
   m_configObjects: {}
